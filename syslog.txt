@@ -1,0 +1,4 @@
+Mar 13 14:00:01 kernel: [0.000000] Linux version 5.4.0 (gcc version 9.3.0)
+Mar 13 14:05:22 sshd[1234]: Failed password for root from 192.168.1.55 port 22
+Mar 13 14:15:10 systemd[1]: Started Network Manager.
+Mar 13 14:30:05 apache2: Error: Could not connect to database.
