@@ -20,4 +20,4 @@ Projeyi yerel makinenizde çalıştırmak için sisteminizde bir C derleyicisi (
 
 1. Projeyi bilgisayarınıza indirin:
    ```bash
-   git clone [https://github.com/uzeyircavusoglu43-create/doubly-linked-list-syslog]
+  git clone https://github.com/uzeyircavusoglu43-create/doubly-linked-list-syslog.git
