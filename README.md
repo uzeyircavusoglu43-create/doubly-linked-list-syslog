@@ -21,3 +21,13 @@ Projeyi yerel makinenizde çalıştırmak için sisteminizde bir C derleyicisi (
 1. Projeyi bilgisayarınıza indirin:
    ```bash
   git clone https://github.com/uzeyircavusoglu43-create/doubly-linked-list-syslog.git
+
+2.Kodu derleyin:
+
+Bash
+gcc main.c -o syslog_reader
+
+3.Aynı dizinde syslog.txt adında örnek bir log dosyası bulunduğundan emin olun ve programı çalıştırın:
+
+Bash
+./syslog_reader
